@@ -20,17 +20,6 @@ Welcome to the **flux-image** repository! This project serves as a streamlined t
 * **Git & GitHub** (For version control and collaboration)
 
 ---
-
-## 📂 Repository Structure
-
-```text
-flux-image/
-├── assets/          # Saved images, illustrations, and visual outputs
-├── notebooks/       # Experimental Jupyter notebooks and testing grounds
-├── scripts/         # Core automation and generation scripts
-├── README.md        # Project documentation
-└── requirements.txt # Python dependencies# flux--image
-
 🚀 Getting Started
 Follow these steps to set up the repository locally on your machine:
 
@@ -56,6 +45,9 @@ Designed and maintained by Lencho (Telegram: @rise2power).
 
 📄 License
 This project is open-source and available under the MIT License.
+
+
+
 
 
 
