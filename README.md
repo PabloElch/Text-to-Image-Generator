@@ -1,6 +1,6 @@
-# Flux Image Repository 🚀
+# Text-to-Image Repository 🚀
 
-Welcome to the **flux-image** repository! This project serves as a streamlined toolkit and workspace for generating, testing, and managing AI-powered image generation workflows.
+Welcome to the **Text-to-Image** repository! This project serves as a streamlined toolkit and workspace for generating, testing, and managing AI-powered image generation workflows.
 
 ---
 
